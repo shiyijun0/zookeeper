@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="orderService" />
         <module name="productService" />
+        <module name="zookeeper" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="orderService" target="1.8" />
       <module name="productService" target="1.8" />
+      <module name="zookeeper" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
