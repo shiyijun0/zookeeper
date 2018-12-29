@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/micServer.iml" filepath="$PROJECT_DIR$/.idea/micServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/orderService/orderService.iml" filepath="$PROJECT_DIR$/orderService/orderService.iml" />
       <module fileurl="file://$PROJECT_DIR$/productService/productService.iml" filepath="$PROJECT_DIR$/productService/productService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zkconfig/zkconfig.iml" filepath="$PROJECT_DIR$/zkconfig/zkconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper/zookeeper.iml" filepath="$PROJECT_DIR$/zookeeper/zookeeper.iml" />
       <module fileurl="file://$PROJECT_DIR$/zookeeper/zookeeper.iml" filepath="$PROJECT_DIR$/zookeeper/zookeeper.iml" />
     </modules>
   </component>
