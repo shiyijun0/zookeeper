@@ -180,7 +180,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1937" />
@@ -992,12 +992,12 @@
       <updated>1545977070025</updated>
       <workItem from="1545977084803" duration="7173000" />
       <workItem from="1545990455843" duration="678000" />
-      <workItem from="1546001773232" duration="3417000" />
+      <workItem from="1546001773232" duration="3684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11268000" />
+    <option name="totallyTimeSpent" value="11535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1549" height="845" extended-state="0" />
@@ -1013,7 +1013,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3984733" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3984733" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
